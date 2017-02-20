@@ -9,6 +9,6 @@ public class SimpleTest {
     @Test
     public void testToSucceed() {
         System.out.println("Test to succeed run");
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 }
